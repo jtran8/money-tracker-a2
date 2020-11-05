@@ -31,4 +31,7 @@ Thank you for showing interest in supporting the development of Money Tracker. B
 
 ### Pull Request
 
-10. 
+10. Make a Pull request by selecting your branch on the GitHub website and clicking on the Pull Request button.  
+    ![alt text](https://i.imgur.com/6ZcGpcc.png)
+11. Wait for feedback or requests for changes to your pull request. Continue to commit changes to your branch until your pull request is approved.
+12. Congratulations! You've successfully contributed to the project.
