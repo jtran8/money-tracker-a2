@@ -19,9 +19,16 @@ Before you can start making changes to the project, you will need to first ident
 Making a copy of the project to work on locally.
 
 4.	Fork: Go to this [GitHub repo](https://github.com/jtran8/money-tracker-a2) and click the Fork button on the upper right-hand corner.
+    ![alt text](https://i.imgur.com/ZwaEQOl.png)
 5.	Clone: Create a local copy of the repo by using GitHub desktop or by running 
     ```git clone git@github.com:<your username>/money-tracker.git``` in git.
-3.	Branch: Make a new branch that will contain your changes. Use the naming convention ```featureDev_<YourFeaturedName>```.
-4.	Add and commit your contribution (s) 
+6.	Branch: Make a new branch that will contain your changes. Use the naming convention ```featureDev_<YourFeaturedName>```.
+    ![alt text](https://i.imgur.com/lFapQOL.png)
+    
+## Making Changes
+
+Adding code and testing.
+
+7.	Add and commit your contribution (s) 
 5.	Push to your ```featureDev_<YourFeaturedName>``` branch
 6.	Open a pull request (PR)
