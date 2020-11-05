@@ -43,7 +43,7 @@ Our software is distributed under the MIT License.
 
 ## Contributing
 
-[Link](https://github.com/jtran8/money-tracker-a2/blob/documentation-improvement/docs/CONTRIBUTING.md)
+[Link](https://github.com/jtran8/money-tracker-a2/blob/master/docs/CONTRIBUTING.md)
 
 ## Community Standards
 
