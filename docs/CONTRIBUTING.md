@@ -10,7 +10,7 @@ Thank you for showing interest in supporting the development of Money Tracker. B
 
 1.  If you haven't already, familiarize yourself with [Money Tracker](https://moneytracker.cc/) and find areas for improvement.    
 2.  Open a new issue on the [Issues page](https://github.com/jtran8/money-tracker-a2/issues) and explaining the deficiency and how you plan to fix it.
-3.  Wait for confirmation from the main dev team and the get started!
+3.  Wait for confirmation from the main dev team and get started!
 
 ### Setting up your local environment
 
