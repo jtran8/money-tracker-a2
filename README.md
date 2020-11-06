@@ -57,7 +57,7 @@ Please keep in mind that everyone:
 
 ## Communication Channels
 
-`<please add here your preferred communication channel>`
+Currently there are no dedicated Communication Channels for this project. That may change if there is demand for one in the future. For the time being please use [Issues](https://github.com/jtran8/money-tracker-a2/issues) to discuss the project.
 
 ## Development Tracking
 
