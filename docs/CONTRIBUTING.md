@@ -35,3 +35,9 @@ Thank you for showing interest in supporting the development of Money Tracker. B
     ![alt text](https://i.imgur.com/6ZcGpcc.png)
 11. Wait for feedback or requests for changes to your pull request. Continue to commit changes to your branch until your pull request is approved.
 12. Congratulations! You've successfully contributed to the project.
+
+## Style Guide
+
+A constant coding style is important for code consistency and readability.  
+In general, please refer to [Airbnb's Style Guide](https://github.com/airbnb/javascript#naming-conventions).  
+For further clarification, you can create a new [Issue](https://github.com/jtran8/money-tracker-a2/issues) to ask for advice.
