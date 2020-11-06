@@ -37,3 +37,5 @@ Thank you for showing interest in supporting the development of Money Tracker. B
 12. Congratulations! You've successfully contributed to the project.
 
 ## Style Guide
+
+[Airbnb's Style Guide](https://github.com/airbnb/javascript#naming-conventions)
