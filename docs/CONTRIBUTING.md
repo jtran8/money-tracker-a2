@@ -38,4 +38,6 @@ Thank you for showing interest in supporting the development of Money Tracker. B
 
 ## Style Guide
 
-[Airbnb's Style Guide](https://github.com/airbnb/javascript#naming-conventions)
+A constant coding style is important for code consistency and readability.  
+In general, please refer to [Airbnb's Style Guide](https://github.com/airbnb/javascript#naming-conventions).
+For further clarification, you can create a new [Issue](https://github.com/jtran8/money-tracker-a2/issues) to ask for advice.
